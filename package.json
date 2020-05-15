@@ -2,6 +2,6 @@
   "name": "testMs",
   "version": "1.0.0",
   "description": "JavaScript example starter project",
-  "main": "index.html",
+  "main": "index.html"
  
 }
